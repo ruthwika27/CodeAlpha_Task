@@ -1,4 +1,4 @@
-# CodeAlpha_Tasks
+# CodeAlpha_Task
 """
 🎮 Hangman Game (Python Console)
 
