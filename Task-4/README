@@ -1,1 +1,38 @@
 
+"""
+# 💬 Basic Chatbot – CodeAlpha Python Internship (Task 4)
+
+## 📌 Project Overview
+This is **Task 4** of my **CodeAlpha Python Programming Internship** – a simple **Rule-Based Chatbot** 
+that responds to basic user inputs like greetings, questions, and farewells.
+
+The chatbot uses predefined responses for specific keywords, making it easy to extend for more conversations.
+
+---
+
+## 🎯 Features
+- ✅ Responds to greetings (hello, hi, hey)
+- ✅ Answers simple questions (how are you, what's your name)
+- ✅ Ends conversation when user says "bye"
+- ✅ Case-insensitive input matching
+- ✅ Keeps conversation running in a loop
+
+---
+
+## 🛠 Technologies Used
+- **Python 3**
+- **String handling**
+- **Loops**
+- **Conditional statements**
+
+---
+
+## 📂 Project Structure
+📁 Task 4 - Basic Chatbot
+ ├── task4_basic_chatbot.py  # Main script
+
+---
+
+## 🚀 How to Run
+1. Save this script as `task4_basic_chatbot.py`.
+2. Run the script:
