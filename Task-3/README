@@ -1,1 +1,40 @@
 
+"""
+# 📧 Email Extractor – CodeAlpha Python Internship (Task 3)
+
+## 📌 Project Overview
+This is **Task 3** of my **CodeAlpha Python Programming Internship** – an **Email Extractor Script** 
+that automates the process of finding and saving all valid email addresses from a given text file.
+
+The script uses **Regular Expressions (Regex)** to identify email patterns, removes duplicates, 
+sorts the list, and saves the results into a separate file.
+
+---
+
+## 🎯 Features
+- ✅ Reads data from `input.txt`
+- ✅ Extracts valid email addresses using Python's `re` module
+- ✅ Removes duplicate emails
+- ✅ Sorts emails alphabetically
+- ✅ Saves output to `extracted_emails.txt`
+- ✅ Displays extracted emails in the console
+
+---
+
+## 🛠 Technologies Used
+- **Python 3**
+- **Regex (`re` module)**
+- **File Handling**
+
+---
+
+## 📂 Project Structure
+📁 Task 3 - Email Extractor
+ ├── task3_email_extractor.py   # Main script
+ ├── input.txt                  # Input file with sample text & emails
+ └── extracted_emails.txt       # Output file with extracted emails
+
+---
+
+## 🚀 How to Run
+1. Make sure `input.txt` contains your sample text:
